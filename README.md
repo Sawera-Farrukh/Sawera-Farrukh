@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Sawera Farrukh 🌟
+# 🌟Hi , I'm Sawera Farrukh - passionate web and AI developer 🌟
 ### Full Stack Developer | AI/ML Engineer | Data Scientist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;Full+Stack+%7C+AI%2FML+%7C+Data+Science;React+%7C+Django+%7C+SQL+%7C+Python;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
@@ -65,16 +65,16 @@ class SaweraFarrukh:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sawerafarrukh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawerafarrukh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sawera-farrukh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawera-farrukh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawerafarrukh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawera-farrukh&theme=\tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawerafarrukh&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawera-farrukh&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ class SaweraFarrukh:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sawerafarrukh&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sawera-farrukh&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
